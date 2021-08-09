@@ -1,0 +1,41 @@
+.covidvarient_container{
+    /* padding:50px 0px; */
+    width: 100%;
+    min-height: 100vh;
+    background-color:rgba(255, 255, 255, 0.1);
+    background-position: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.covidvarient_container .covidvarient_content{
+    position: relative;
+    width: 90%;
+    min-height: 80vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+.covidvarient_container .covidvarient_content .covidvarient_info{
+    max-width: 100%;
+    color: rgb(0, 0, 0);
+}
+.cardGroup{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap: wrap;
+}
+.covidvarient_info h1{
+    margin: 10px;
+    text-align:left;
+    font-weight:400;
+}
+.covidvarient_info p{
+    text-indent:20px;
+    text-align: justify;
+    letter-spacing: 1px;
+    margin:10px;
+}

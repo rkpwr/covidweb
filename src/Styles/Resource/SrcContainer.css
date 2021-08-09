@@ -1,0 +1,19 @@
+.source_container{
+    display: block;
+    margin: auto;
+    width: 90%;
+    min-height:200px;
+    /* background-color: black; */
+}
+.srccard{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.source_container h2{
+    margin: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}

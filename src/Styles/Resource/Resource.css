@@ -1,0 +1,27 @@
+.adjust{
+    padding: 0px 0px !important;
+}
+.ad2{
+    width: 100% !important;
+}
+
+.Resource_Header{
+    position: relative;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 200px;
+    background-color: rgba(255, 166, 0, 0.239);
+    background-image:url('../../Assets/Backgrounds/resources.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius:4px;
+    color:white;
+}
+.Resource_Header h1{
+    margin: 10px;
+    text-transform: capitalize;
+}

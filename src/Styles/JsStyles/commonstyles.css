@@ -1,0 +1,25 @@
+.Container{
+    padding: 50px 0px 0px 0px;
+    width: 100%;
+    min-height: 100vh;
+    background-color:rgba(0, 0, 0, 0.1);
+    background-position: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.Container .Content{
+    position: relative;
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    justify-content:flex-start;
+    align-items:center;
+    flex-direction:column;
+}
+.Container .Content .info{
+    width: 100%;
+    color: rgb(0, 0, 0);
+    /* background-color: black; */
+}

@@ -1,0 +1,62 @@
+.covid_info{
+    /* padding:50px 0px; */
+    width: 100%;
+    min-height: 100vh;
+    background-color:rgba(255, 255, 255, 0.1);
+    background-position: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.covid_info .covid_info_content{
+    position: relative;
+    width: 90%;
+    min-height: 80vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.covid_info .covid_info_content .covid_info_box{
+    max-width: 100%;
+    color: rgb(0, 0, 0);
+}
+
+.covid_info_box h1,h3{
+    margin: 10px;
+    text-align:left;
+    font-weight:400;
+    color:rgb(153, 71, 3);
+}
+.covid_info_box h1{
+    margin-top: 50px;
+    text-align:center;
+}
+.covid_info_box p{
+    text-indent:50px;
+    text-align: justify;
+    letter-spacing: 1px;
+    margin:10px;
+}
+.covid_info_box b{
+    font-weight:500;
+    color:rgb(153, 71, 3);
+}
+.covidinfoimg{
+    position:relative;
+    margin:10px 0px;
+    width:100%;
+    min-height:200px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+}
+.covidinfoimg img{
+    filter: drop-shadow(0px 0px 5px rgb(100, 99, 99));
+    margin:10px;
+    height:200px;
+    width:200px;
+    border-radius: 5px;
+}
+

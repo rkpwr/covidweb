@@ -28,7 +28,6 @@
     align-items: center;
     /* flex-direction: column; */
     flex-wrap: wrap;
-   
     width:90%;
     min-height:400px;
     /* background-color:red; */
@@ -94,9 +93,10 @@
     outline: none;
 }
 .about_img form input[type="submit"]:hover{
-    
     color:indigo;
     background-color:white;
     border: 1px solid indigo;
-    
+}
+.about_text img{
+    width: 100%;
 }

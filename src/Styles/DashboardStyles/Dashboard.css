@@ -20,11 +20,10 @@
 .update{
     display: block;
     padding:5px;
-    margin: 10px auto ;
+    margin: 10px auto;
     width: 80%;
-    height:30px;
+    min-height:30px;
     /* background-color:gray; */
-   
 }
 .update b{
     color:rgb(82, 3, 156);
@@ -47,7 +46,6 @@
     align-items:center;
     width:280px;
     height:200px;
-   
 }
 .showdata1{
     display: flex;

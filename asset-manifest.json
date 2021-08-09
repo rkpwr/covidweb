@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/covidweb/static/css/main.c41a5d9e.chunk.css",
+    "main.js": "/covidweb/static/js/main.01975604.chunk.js",
+    "main.js.map": "/covidweb/static/js/main.01975604.chunk.js.map",
+    "runtime-main.js": "/covidweb/static/js/runtime-main.d7640801.js",
+    "runtime-main.js.map": "/covidweb/static/js/runtime-main.d7640801.js.map",
+    "static/js/2.36a5f429.chunk.js": "/covidweb/static/js/2.36a5f429.chunk.js",
+    "static/js/2.36a5f429.chunk.js.map": "/covidweb/static/js/2.36a5f429.chunk.js.map",
+    "static/js/3.976c9c4e.chunk.js": "/covidweb/static/js/3.976c9c4e.chunk.js",
+    "static/js/3.976c9c4e.chunk.js.map": "/covidweb/static/js/3.976c9c4e.chunk.js.map",
+    "index.html": "/covidweb/index.html",
+    "static/css/main.c41a5d9e.chunk.css.map": "/covidweb/static/css/main.c41a5d9e.chunk.css.map",
+    "static/js/2.36a5f429.chunk.js.LICENSE.txt": "/covidweb/static/js/2.36a5f429.chunk.js.LICENSE.txt",
+    "static/media/about.7374e088.png": "/covidweb/static/media/about.7374e088.png",
+    "static/media/About.css": "/covidweb/static/media/aboutbg.88448f96.jpg",
+    "static/media/cov1.e1a31726.jpg": "/covidweb/static/media/cov1.e1a31726.jpg",
+    "static/media/cov2.3a51db12.jpg": "/covidweb/static/media/cov2.3a51db12.jpg",
+    "static/media/cov3.718c027c.png": "/covidweb/static/media/cov3.718c027c.png",
+    "static/media/cov4.626ca3c5.png": "/covidweb/static/media/cov4.626ca3c5.png",
+    "static/media/cov5.16f7c28b.jpg": "/covidweb/static/media/cov5.16f7c28b.jpg",
+    "static/media/form.d8235faf.png": "/covidweb/static/media/form.d8235faf.png",
+    "static/media/Homeinfo.css": "/covidweb/static/media/img2.be9026ce.jpg",
+    "static/media/Resource.css": "/covidweb/static/media/resources.71ac7f3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7640801.js",
+    "static/js/2.36a5f429.chunk.js",
+    "static/css/main.c41a5d9e.chunk.css",
+    "static/js/main.01975604.chunk.js"
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covidweb/static/css/main.801c3f0c.chunk.css",
-    "main.js": "/covidweb/static/js/main.9c811bf8.chunk.js",
-    "main.js.map": "/covidweb/static/js/main.9c811bf8.chunk.js.map",
+    "main.js": "/covidweb/static/js/main.4cbee232.chunk.js",
+    "main.js.map": "/covidweb/static/js/main.4cbee232.chunk.js.map",
     "runtime-main.js": "/covidweb/static/js/runtime-main.d7640801.js",
     "runtime-main.js.map": "/covidweb/static/js/runtime-main.d7640801.js.map",
     "static/js/2.77501c0b.chunk.js": "/covidweb/static/js/2.77501c0b.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.d7640801.js",
     "static/js/2.77501c0b.chunk.js",
     "static/css/main.801c3f0c.chunk.css",
-    "static/js/main.9c811bf8.chunk.js"
+    "static/js/main.4cbee232.chunk.js"
   ]
 }
